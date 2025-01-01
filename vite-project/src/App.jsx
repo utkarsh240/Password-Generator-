@@ -116,4 +116,6 @@ function PasswordGenerator() {
   );
 }
 
+// Export the PasswordGenerator component
+
 export default PasswordGenerator;
